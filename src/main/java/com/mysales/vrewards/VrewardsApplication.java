@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VrewardsApplication {
 
 	public static void main(String[] args) {
+	
 		SpringApplication.run(VrewardsApplication.class, args);
 	}
 
